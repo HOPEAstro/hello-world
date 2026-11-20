@@ -1,6 +1,6 @@
 # Param Rudra — FLASH white-dwarf simulation data README
 
-**Prepared for:** Prof. Rahul Kashyap / CompAstroGroup, IIT Bombay  
+**Supervisor:** Prof. Rahul Kashyap  
 **Research area:** Computational astrophysics; numerical evolution of white dwarfs using FLASH (hydrodynamics, rotation and magnetohydrodynamics). MESA stellar models are used for initial conditions.  
 **Research user:** `23n0315`  
 **Original inventory:** 2026-10-16 (43 directories)  
